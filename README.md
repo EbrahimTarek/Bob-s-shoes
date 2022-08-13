@@ -22,4 +22,7 @@
 - create view
 - create clustered & non clustered index on the views
 - create partitioned views
-> [My solutions](https://github.com/EbrahimTarek/Bob-shoes/blob/main/Bob%20shoes.sql)
+> [My solution](https://github.com/EbrahimTarek/Bob-shoes/blob/main/Bob%20shoes.sql)
+> ### ERD
+> [image](![image](https://user-images.githubusercontent.com/93515671/184474853-bbacb4ff-d600-445c-822b-d817a04cf2f3.png)
+
