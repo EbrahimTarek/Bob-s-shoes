@@ -5,4 +5,5 @@
 ## problem
 1.He’s been taking orders by hand , and business has grown enough that handwritten are not up to the task orders get lost.some get doubled .sometimes the orders sheets are illegible
 2. bob need a better system 
-3. we’re going to help him build part of that system by designing database tables and views to keep track of things 
+3.we’re going to help him build part of that system by designing database tables and views to keep track of things 
+ 
