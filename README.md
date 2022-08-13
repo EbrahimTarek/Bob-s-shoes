@@ -6,4 +6,14 @@
 - He’s been taking orders by hand , and business has grown enough that handwritten are not up to the task orders get lost.some get doubled .sometimes the orders sheets are illegible
 - bob need a better system 
 - we’re going to help him build part of that system by designing database tables and views to keep track of things 
+## Design Steps
+- Designing and implementing tables
+- Improve table design through normalization
+- Ensuring Data Integrity with constraints
+- Designing Views to meet business requirements
+- Designing updateable views
+- implementing partitioned views
+- implementing indexed views
+> [My solutions]
+
  
