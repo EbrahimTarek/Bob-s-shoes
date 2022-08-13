@@ -24,5 +24,5 @@
 - create partitioned views
 > [My solution](https://github.com/EbrahimTarek/Bob-shoes/blob/main/Bob%20shoes.sql)
 > ### ERD
-> [image](![image](https://user-images.githubusercontent.com/93515671/184474915-e1cf1d6a-fc49-470b-b4ef-c6707855f3b8.png))
+> ![image](https://user-images.githubusercontent.com/93515671/184474931-2b63f16b-abd1-4d7c-9274-706b98168e0f.png)
 
