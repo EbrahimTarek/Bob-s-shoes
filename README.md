@@ -14,6 +14,12 @@
 - Designing updateable views
 - implementing partitioned views
 - implementing indexed views
-> [My solutions]
-
- 
+## SQL skills gained
+- Creating file group for data and logs
+- Using collation
+- Database Normalization
+- Different types of constraints
+- create view
+- create clustered & non clustered index on the views
+- create partitioned views
+> [My solutions](https://github.com/EbrahimTarek/Bob-shoes/blob/main/Bob%20shoes.sql)
